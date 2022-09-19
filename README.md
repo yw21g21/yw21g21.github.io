@@ -1,5 +1,5 @@
 
-# This is my Master thesis
+# This is my Master thesis and CV
 
 <html>
 
